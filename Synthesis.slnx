@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Synthesis.Generator/Synthesis.Generator.csproj" />
+    <Project Path="src/Synthesis.Runtime/Synthesis.Runtime.csproj" />
+    <Project Path="src/Sample.Domain/Sample.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Synthesis.Generator.Tests/Synthesis.Generator.Tests.csproj" />
+  </Folder>
+</Solution>
